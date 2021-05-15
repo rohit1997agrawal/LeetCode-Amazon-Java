@@ -1,2 +1,2 @@
 # LeetCode-Amazon-Java
-Solving frequently asked Amazon questions in Leetcode
+Solving frequently asked Amazon questions on Leetcode
